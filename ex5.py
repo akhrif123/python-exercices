@@ -1,4 +1,3 @@
-# ex5.py
 
 def TROUVER_MAXIMUM(liste):
     
